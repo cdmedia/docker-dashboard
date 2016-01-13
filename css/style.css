@@ -1,0 +1,66 @@
+body {
+	background-color: #f1f1f1;
+}
+
+.panel-title h5 {
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+
+.panel-body {
+	padding-top: 0px;
+}
+
+.panel-card {
+	box-shadow: 1px 0px 1px rgba(0, 0, 0, 0.25);
+	background-color: white;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #f3f3f3;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: .7em;
+    color: #a0a0a0;
+}
+
+.areaM {
+    fill: rgba(0, 160, 233, 0.7);
+}
+
+.memtipPoints {
+    stroke: white;
+    stroke-width: 2px;
+    opacity: 0;
+    fill: #00a0e9;
+}
+
+.tipDot {
+    stroke: black;
+    stroke-width: 0.5px;
+}
+
+.dockerCpuText {
+    font-size: 3.8em;
+    font-weight: bold;
+    fill: #7d7d7d;
+}
+
+.areaDM {
+    fill: rgba(0, 160, 233, 0.7);
+}
+
+.memtipDPoints {
+    stroke: white;
+    stroke-width: 2px;
+    opacity: 0;
+    fill: #00a0e9;
+}
